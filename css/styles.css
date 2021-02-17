@@ -9981,6 +9981,8 @@ h3 {
   padding: 6rem 0;
 }
 .page-section .page-section-heading {
+  
+  margin-bottom: 5rem;
   font-size: 2.25rem;
   line-height: 2rem;
 }
@@ -10114,7 +10116,11 @@ h3 {
   padding-top: calc(6rem + 74px);
   padding-bottom: 6rem;
 }
+.img-fluid1 {
+  margin-top: -9rem;
+}
 .masthead .masthead-heading {
+  margin-top: 10rem;
   font-size: 2.75rem;
   line-height: 2.75rem;
 }
